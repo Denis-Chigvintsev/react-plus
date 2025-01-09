@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b82af952.css",
+    "main.js": "/static/js/main.a98e9ef3.js",
+    "static/media/main.gif": "/static/media/main.cc7e21a48fb14a37a2c2.gif",
+    "static/media/logo.png": "/static/media/logo.799a6a76d33db1724b5c.png",
+    "static/media/Lobster.otf": "/static/media/Lobster.b14163295fb2970f1118.otf",
+    "index.html": "/index.html",
+    "main.b82af952.css.map": "/static/css/main.b82af952.css.map",
+    "main.a98e9ef3.js.map": "/static/js/main.a98e9ef3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82af952.css",
+    "static/js/main.a98e9ef3.js"
+  ]
+}
